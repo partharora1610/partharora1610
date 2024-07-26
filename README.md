@@ -1,4 +1,4 @@
-## Hi there, I'm Sachin 👋🤗
+## Hi there, I'm Parth 👋🤗
 
 - Currently studying my first year at Scaler School Of Technology
 
