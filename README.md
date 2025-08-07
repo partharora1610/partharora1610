@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=partharora1610&theme=dark&hide_border=true&background=1B1B1B&stroke=FFFFFF&fire=FFFFFF&ring=FFFFFF&dates=C1C1C1&currStreakLabel=E2E2E2&currStreakNum=FFFFFF)](https://git.io/streak-stats)
-
 ## 📡 How to Reach Me
 
 - [Email](mailto:partharora2233@gmail.com)
